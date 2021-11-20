@@ -1,5 +1,5 @@
 import os
-# Simple Comment 9:14PM
+# Simple Comment 9:23PM
 def generate_dict():
     folder_path = '/home/mprstacic/scripts/'
     files = os.listdir(folder_path)
